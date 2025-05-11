@@ -1,6 +1,8 @@
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { Footer, Header, Shop } from "./layout";
+import { Footer } from "./layout/Footer";
+import { Header } from "./layout/Header";
+import { Shop } from "./layout/Shop";
 
 // function App() {
 //   return (
